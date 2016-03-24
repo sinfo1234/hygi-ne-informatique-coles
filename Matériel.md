@@ -8,5 +8,5 @@ Il est impératif de tester régulièrement son disque pour s'assurer de son bon
 
 ![Gsmartcontrol](https://raw.githubusercontent.com/sinfo1234/hygiene-informatique-ecoles/master/Images/Gsmartcontrol.png)
 
-
+Une fois arriver sur le centre de téléchargement de Gsmartcontrol, déscendre jusqu'à la rubrique Wiwdows et cliquez sur le lien indiqué par la flèche pour télécharger Gsmartcontrol
 
