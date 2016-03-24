@@ -6,5 +6,5 @@ Il est impératif de tester régulièrement son disque pour s'assurer de son bon
 
 - **Gsmartcontrol**: Cet outil vous permettra de connaître l’état de votre disque dur ainsi que d’éffectuer quelques test en utilisant la technologie SMART. [Télécharger Gsmartcontrol pour Windows](http://gsmartcontrol.sourceforge.net/home/index.php/Downloads) (Logiciel portable, ne nessacite pas d'instalation)
 
-![Test](http://www.toulouse.ferraridealers.com/siteasset/ferraridealer/4f86ff0619d6d/961/420/selected/-90/0/0/4f86ff0619d6d.jpg)
+![Gsmartcontrol](https://raw.githubusercontent.com/sinfo1234/hygiene-informatique-ecoles/master/Images/Gsmartcontrol.png)
 
